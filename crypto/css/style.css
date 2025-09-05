@@ -259,3 +259,9 @@ a.nav-link:hover {
   background: var(--primary-color);
 }
 
+/* footer style */
+
+.links a {
+    text-decoration: none;
+    color: #ffffff;
+}
